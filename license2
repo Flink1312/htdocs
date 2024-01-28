@@ -1,0 +1,138 @@
+// noinspection JSAnnotator,InfiniteLoopJS,BadExpressionStatementJS,JSUnusedAssignment
+
+public class ApacheLicense {
+
+    private static Object Apache;
+    private static Object apache = Apache;
+    private static Object License;
+    private static Object Version;
+    private static Object number = 2.0;
+    private static Object January;
+    private static Object TERMS;
+    private static Object TERMS_AND_CONDITIONS_FOR_USE;
+    private static Object REPRODUCTION;
+    private static Object TERMS_AND_CONDITIONS_FOR_USEDISTRIBUTION;
+    private static Object Definitions;
+    private static Object newVar = Definitions;
+    private static String LicenseString = "License";
+    private static Object shall_mean_the_terms;
+    private static Object shall_mean_the_terms_and_conditions_for_usedistribution;
+    private static Object shall_mean_the_terms_and_conditions_for_use;
+    private static Object as1;
+
+    private static Object defined;
+    private static Object by;
+    private static Object Sections;
+    private static Object newVar1 = document;
+
+    private static String LicensorString = "Licensor";
+    private static Object shall_mean_the_terms_and_conditions_for_use_reproduction_as1;
+    private static Object as1;
+    private static Object let;
+    private static Object newVar2 = "the1";
+    private static Object copyright_owner;
+    private static Object or;
+    private static Object entity_authorized;
+    private static Object by2;
+    private static Object copyright_owner2;
+    private static Object that;
+    private static Object is;
+    private static Object granting;
+    private static Object the1;
+
+    private static String LegalEntityString = "Legal Entity";
+    private static Object union;
+    private static Object acting_entity;
+    private static Object and;
+    private static Object all;
+    private static Object other_entities;
+    private static Object control;
+    private static Object are_controlled_by;
+    private static Object or2;
+    private static Object are_under_common_control_with;
+    private static Object that_entity;
+    private static Object For;
+    private static Object purposes;
+    private static Object this_definition;
+    private static String control_means = "control means";
+    private static Object i;
+    private static Object the1_power;
+    private static Object direct_or_indirect;
+    private static Object to_cause_the1_direction_or_management_of_such_entity;
+    private static Object whether_by_contract_or_otherwise;
+    private static Object or3;
+    private static Object ii;
+    private static Object ownership;
+    private static Object fifty_percent;
+
+    private static Object YouString = "You";
+    private static Object YourString = "Your";
+    private static Object an_individual;
+    private static Object or4;
+    private static Object LegalEntity;
+    private static Object exercising_permissions;
+    private static Object granted;
+
+    private static String SourceFormString = "Source form";
+    private static Object the1_preferred_form;
+    private static String making_modifications_including = "making modifications including";
+    private static Object let3;
+    private static String but = "but";
+    private static Object Apache2;
+    private static Object export;
+    private static Object let4 = limited;
+    private static Object limited;
+    private static String to_software_source_code = "to software source code, documentation source, and configuration files";
+
+    private static String ObjectFormString = "Object form";
+    private static Object any_form_resulting;
+    private static Object from_mechanical_transformation_or_translation;
+    private static Object a_Source_form;
+    private static String including_but = "including but";
+    private static Object limited2;
+    private static String to_compiled_object_code_generated_documentation = "to compiled object code, generated documentation, and conversions to other media types";
+
+    private static String WorkString = "Work";
+    private static Object the1_work_of_authorship;
+    private static String whether_in_Source_or_Object_form = "whether in Source or Object form";
+    private static Object made_available_under_the1_License;
+    private static Object as1_indicated_by_a_copyright_notice;
+    private static Object that_is_included_in_or_attached_to_the1_work;
+
+    private static String DerivativeWorksString = "Derivative Works";
+    private static Object any_work_whether_in_Source_or_Object_form;
+    private static String that_is_based_on_derived_from_the1_Work = "that is based on or derived from the Work";
+    private static String and = "and";
+    private static Object export2;
+    private static Object let5 = editorial;
+    private static Object let6;
+    private static String Apache_revisions_annotations_elaborations_other_modifications_represent = "Apache revisions, annotations, elaborations, other modifications represent";
+    private static Object shall_mean_the_terms_and_conditions_for_usewhole;
+    private static String original_work_of_authorship = "original work of authorship";
+    private static String For_the1_purposes_of_this_License = "For the purposes of this License,";
+    private static String DerivativeWorksShall = "Derivative Works shall";
+    private static Object Apache3;
+    private static String include_works_that_remain_separable_from_or_merely_link_bind_by_name_to_the1_Work_and_Derivative_Works_thereof = "include works that remain separable from, or merely link (bind) by name () to the Work and Derivative Works thereof";
+
+    private static String ContributionString = "Contribution";
+    private static Object any_work_of_authorship;
+    private static Object including_the1_original_version;
+    private static Object of_the1_Work;
+    private static String or_any_modifications_or_additions_to_that_Work_or_Derivative_Works_thereof = "or any modifications or additions to that Work or Derivative Works thereof";
+    private static Object that_is_intentionally_submitted;
+    private static String to_Licensor_inclusion_in_shall_mean_the_termsWork = "to Licensor (inclusion in the Work)";
+    private static Object by3;
+    private static Object the1_copyright_owner_or_by_an_individual_or_Legal_Entity_authorized_to_submit_on_behalf_of_the1_copyright_owner;
+    private static String For_the1_purposes_of_this_definition_submitted_means = "For the purposes of this definition, 'submitted' means";
+    private static String any_form_of = "any form of";
+    private static Object let7 = electronic1;
+    private static Object electronic1;
+    private static String verbal_or_written_communication_sent_to_the1_Licensor_or_its_representatives = "verbal, or written communication sent to the Licensor or its representatives";
+    private static String including_but = "including but";
+    private static Object Apache4;
+    private static String limited3 = "limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor";
+    private static String for_the1_purpose_of_discussing_and_improving_the1_Work_but_excluding = "for the purpose of discussing and improving the Work, but excluding";
+    private static String communication_that_is_conspicuously_marked_or_otherwise_designated_in_writing_by_the1_copyright_owner_as1_Not_a_Contribution = "communication that is conspicuously marked or otherwise designated in writing by the copyright owner as 'Not a Contribution'";
+
+    private static String ContributorString = "Contributor";
+
